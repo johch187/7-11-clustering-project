@@ -25,6 +25,7 @@ pip install k-means-constrained
 3. **Output**:
     - The optimal route for each cluster of 7/11 stores.
     - The total distance required to traverse each cluster using the optimal route.
+<img width="555" alt="Screenshot 2023-08-11 at 03 11 44" src="https://github.com/johch187/7-11-clustering-project/assets/14834605/b802a00a-dded-4944-b863-3531549aa678">
 
 ## Usage
 
